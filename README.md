@@ -2,6 +2,10 @@
 
 Welcome to the Cabo Web App, a digital version of the card game Cabo. This project is built using TypeScript, Vite, React, XState, and PartyKit. Below you'll find information on the project setup, development process, and game rules.
 
+[![Version](https://img.shields.io/npm/v/cabo-js.svg)](https://www.npmjs.com/package/cabo-js)
+[![License](https://img.shields.io/npm/l/cabo-js.svg)](https://github.com/2wce/cabo-js/blob/main/LICENSE)
+![Build Status](https://github.com/2wce/cabo-js/actions/workflows/release.yml/badge.svg)
+
 ## Table of Contents
 
 - [Installation](#installation)
